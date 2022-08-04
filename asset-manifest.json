@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Theme-react-thientvb/static/css/main.d0aa35e2.css",
-    "main.js": "/Theme-react-thientvb/static/js/main.e6a24852.js",
+    "main.js": "/Theme-react-thientvb/static/js/main.2dae5903.js",
     "static/js/934.54e8b93e.chunk.js": "/Theme-react-thientvb/static/js/934.54e8b93e.chunk.js",
     "static/js/29.a538bacf.chunk.js": "/Theme-react-thientvb/static/js/29.a538bacf.chunk.js",
     "static/js/573.bf7bbc6c.chunk.js": "/Theme-react-thientvb/static/js/573.bf7bbc6c.chunk.js",
@@ -34,7 +34,7 @@
     "static/js/244.70f7d30c.chunk.js": "/Theme-react-thientvb/static/js/244.70f7d30c.chunk.js",
     "index.html": "/Theme-react-thientvb/index.html",
     "main.d0aa35e2.css.map": "/Theme-react-thientvb/static/css/main.d0aa35e2.css.map",
-    "main.e6a24852.js.map": "/Theme-react-thientvb/static/js/main.e6a24852.js.map",
+    "main.2dae5903.js.map": "/Theme-react-thientvb/static/js/main.2dae5903.js.map",
     "934.54e8b93e.chunk.js.map": "/Theme-react-thientvb/static/js/934.54e8b93e.chunk.js.map",
     "29.a538bacf.chunk.js.map": "/Theme-react-thientvb/static/js/29.a538bacf.chunk.js.map",
     "573.bf7bbc6c.chunk.js.map": "/Theme-react-thientvb/static/js/573.bf7bbc6c.chunk.js.map",
@@ -68,6 +68,6 @@
   },
   "entrypoints": [
     "static/css/main.d0aa35e2.css",
-    "static/js/main.e6a24852.js"
+    "static/js/main.2dae5903.js"
   ]
 }
