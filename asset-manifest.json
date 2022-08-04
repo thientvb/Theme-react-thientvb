@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Theme-react-thientvb/static/css/main.d0aa35e2.css",
-    "main.js": "/Theme-react-thientvb/static/js/main.fef3e76b.js",
+    "main.js": "/Theme-react-thientvb/static/js/main.e4413ab7.js",
     "index.html": "/Theme-react-thientvb/index.html",
     "main.d0aa35e2.css.map": "/Theme-react-thientvb/static/css/main.d0aa35e2.css.map",
-    "main.fef3e76b.js.map": "/Theme-react-thientvb/static/js/main.fef3e76b.js.map"
+    "main.e4413ab7.js.map": "/Theme-react-thientvb/static/js/main.e4413ab7.js.map"
   },
   "entrypoints": [
     "static/css/main.d0aa35e2.css",
-    "static/js/main.fef3e76b.js"
+    "static/js/main.e4413ab7.js"
   ]
 }
