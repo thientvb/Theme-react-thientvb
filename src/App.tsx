@@ -9,12 +9,13 @@ import ThemeProvider from './theme/ThemeProvider';
 
 function App() {
   const content = useRoutes(router);
-
+  console.log(content);
   return (
     <ThemeProvider>
       <LocalizationProvider dateAdapter={AdapterDateFns}>
         <CssBaseline />
         {content}
+        <h1>123</h1>
       </LocalizationProvider>
     </ThemeProvider>
   );
